@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="439.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ViewBooksController">
+   <children>
+      <Button fx:id="btnSearchBooks" layoutX="443.0" layoutY="136.0" mnemonicParsing="false" onAction="#handleSearchButton" text="Search" />
+      <Label layoutX="224.0" layoutY="35.0" text="Books Catalog">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <TextField fx:id="txtFieldBook" layoutX="84.0" layoutY="87.0" prefHeight="25.0" prefWidth="411.0" />
+      <RadioButton fx:id="optionTitle" layoutX="164.0" layoutY="140.0" mnemonicParsing="false" selected="true" text="By Title">
+         <toggleGroup>
+            <ToggleGroup fx:id="tglSearch" />
+         </toggleGroup>
+      </RadioButton>
+      <RadioButton fx:id="optionAuthor" layoutX="246.0" layoutY="140.0" mnemonicParsing="false" text="By Author" toggleGroup="$tglSearch" />
+      <RadioButton fx:id="optionISBN" layoutX="345.0" layoutY="140.0" mnemonicParsing="false" text="By ISBN" toggleGroup="$tglSearch" />
+      <RadioButton fx:id="optionID" layoutX="93.0" layoutY="141.0" mnemonicParsing="false" text="By ID" toggleGroup="$tglSearch" />
+      <TextArea fx:id="txtSearchResult" layoutX="84.0" layoutY="199.0" prefHeight="110.0" prefWidth="417.0" />
+      <Label fx:id="labelHeading" layoutX="83.0" layoutY="172.0" prefHeight="17.0" prefWidth="417.0" />
+      <Button fx:id="btnClose" layoutX="455.0" layoutY="323.0" mnemonicParsing="false" onAction="#handleCloseButton" text="Close" />
+      <Button fx:id="btnClear" layoutX="376.0" layoutY="323.0" mnemonicParsing="false" onAction="#handleClearButton" text="Clear" />
+      <Label fx:id="lblRent" layoutX="81.0" layoutY="379.0" prefHeight="17.0" prefWidth="122.0" />
+      <TextField fx:id="txtMember" layoutX="207.0" layoutY="376.0" prefHeight="25.0" prefWidth="167.0" visible="false" />
+      <Button fx:id="btnRent" layoutX="379.0" layoutY="375.0" mnemonicParsing="false" onAction="#handleRentButton" text="Rent Book" visible="false" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,8 @@
+1,9,Bad Science,Ben Goldacre,Elseiver,453627189347,SCIENCE,2,Lord Kelvin,,2014-11-25,2018-08-18
+2,14,An introduction to Statistics learning,Robert Tibshirani and Trevor Hastie,Springer,456372819374,STATISTICS,3,Marie Curie,,2015-01-09,2016-01-09
+3,5,Cloud Atlas,David Mitchell,Penguin books,721345839452,ENGLISH,6,Edmond Halley,,2015-04-09,2018-08-18
+4,4,Borderline,Mishell Baker,Elsevier,9780128022515,ENGLISH,3,Marie Curie,,2015-01-09,2016-01-09
+5,14,An introduction to Statistics learning,Robert Tibshirani and Trevor Hastie,Springer,456372819374,STATISTICS,3,Marie Curie,,2015-01-09,2016-01-09
+6,4,Borderline,Mishell Baker,Elsevier,9780128022515,ENGLISH,1,Prodip Mitra,,2014-11-24,2018-08-10
+7,4,Borderline,Mishell Baker,Elsevier,9780128022515,ENGLISH,5,Patty Jo Watson,,2015-03-12,2016-03-12
+8,9,Bad Science,Ben Goldacre,Elseiver,453627189347,SCIENCE,1,Prodip Mitra,,2014-11-24,2018-08-10

@@ -1,0 +1,17 @@
+0,Electrical Power Systems,Sara Laurer,Butterworth-Heinemann,9780081011249,REFERENCE
+1,THE GREAT GATSBY,F. Scott Fitzgerald,,2314555678123,ENGLISH
+2,Time and Methods in Environmental Interfaces Modelling,Scott ,Woodhead Publishing Series,9780444639189,REFERENCE
+3,Microbiology and Molecular Diagnosis in Pathalogy, ,Elsevier,9780128053515,REFERENCE
+4,Borderline,Mishell Baker,Elsevier,9780128022515,ENGLISH
+5,Cloud Atlas,David Mitchell,Penguin books,721345839452,ENGLISH
+6,Little Women,Lousia May Alcot,Penguin books,45738135982,ENGLISH
+7,The Kite Runner,Khaled Hosseini,Penguin Books,233845798245,ENGLISH
+8,Don Quixote,Miguel De Cervantes,Penguin Books,239485761029,FRENCH
+9,Bad Science,Ben Goldacre,Elseiver,453627189347,SCIENCE
+10,A Physics book: From the Big Bang to Quantum Resurrection,Clifford A. Pickover,Sterling,9781402778612,PHYSICS
+11,Chemistry,Steven Zumdahl and Susan Zumdahl,Wiley,9781111784928,CHEMISTRY
+12,The Geography Book,Caroline Arnold,Wiley,9780471412366,GOEGRAPHY
+13,Calculus,James Stewarts,Indigo books,987656573829,MATHS
+14,An introduction to Statistics learning,Robert Tibshirani and Trevor Hastie,Springer,456372819374,STATISTICS
+15,A short history of Canada,Desmond Morton,Indigo books,716253489123,HISTORY
+16,A short history of Canada,Desmond Morton,Indigo books,456253489123,HISTORY
